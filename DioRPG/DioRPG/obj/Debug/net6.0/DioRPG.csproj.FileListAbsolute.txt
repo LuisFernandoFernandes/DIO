@@ -1,0 +1,15 @@
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\bin\Debug\net6.0\DioRPG.exe
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\bin\Debug\net6.0\DioRPG.deps.json
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\bin\Debug\net6.0\DioRPG.runtimeconfig.json
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\bin\Debug\net6.0\DioRPG.dll
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\bin\Debug\net6.0\DioRPG.pdb
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.csproj.AssemblyReference.cache
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.AssemblyInfoInputs.cache
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.AssemblyInfo.cs
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.csproj.CoreCompileInputs.cache
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.dll
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\refint\DioRPG.dll
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.pdb
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\DioRPG.genruntimeconfig.cache
+C:\Users\Luisf\source\repos\DioRPG\DioRPG\obj\Debug\net6.0\ref\DioRPG.dll
